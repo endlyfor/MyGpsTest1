@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Thu Jun 29 13:38:29 CST 2017
+2.base=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+5.file=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\gps_view_activity.xml
+2.set=DEX
+4.base=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+5.base=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\compass.png
+1.set=ANDROID_RESOURCE
+2.file=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\satellite_mark.png
+0.set=ANDROID_RESOURCE

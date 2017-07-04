@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "D:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "D:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 62,
+                        "endColumn": 49,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 46,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "D:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 46,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 65,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "D:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 65,
+                        "endOffset": 120
+                    }
+                }
+            }
+        ]
+    }
+]

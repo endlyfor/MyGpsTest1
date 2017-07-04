@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\compass.png",
+        "source": "D:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\src\\main\\res\\drawable-hdpi\\compass.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\satellite_mark.png",
+        "source": "D:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\src\\main\\res\\drawable-hdpi\\satellite_mark.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\software\\Android\\AndroidStudioProjects\\MyGpsTest1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
